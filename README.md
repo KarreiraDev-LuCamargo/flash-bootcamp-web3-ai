@@ -2,11 +2,20 @@
 <p align="center">
   <img src="banner-flash-bootcamp-nearx.png" alt="Flash Bootcamp NearX Banner" width="100%" />
 </p>
+## 🧭 Sumário
+- [🌐 As Eras da Internet](#-as-eras-da-internet)
+- [🧩 Tecnologias: Blockchain, Web3 e Smart Contracts](#-tecnologias-blockchain-web3-e-smart-contracts)
+- [📘 Sobre o Projeto](#-sobre-o-projeto)
+- [🚀 O que você vai aprender](#-o-que-você-vai-aprender)
+- [🧠 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [⚙️ Como Executar](#-como-executar)
+- [💬 Comunidade NearX](#-comunidade-nearx)
+- [🧾 Licença](#-licença)
 
 <h1 align="center">⚡ Flash Bootcamp NearX</h1>
 <h3 align="center">Seu Primeiro Projeto Web3 com Blockchain, Smart Contracts e IA</h3>
 
-<h2 align="center">O que é bootcamps</h2>
+<h2 align="center">O que são bootcamps</h2>
 
 <p align="center">Bootcamps são programas de treinamento intensivo e imersivo, com foco na prática, que visam desenvolver habilidades específicas em um curto período, como meses ou semanas. Eles são populares para quem busca uma mudança de carreira ou especialização rápida em áreas como tecnologia, onde o foco é em competências demandadas pelo mercado de trabalho. </p>
 
@@ -295,6 +304,18 @@ O conteúdo é de uso livre para estudos e experimentação.
 
 <p align="center"> <b>Desenvolvido com 💡 por participantes do Flash Bootcamp NearX</b><br/> <sub>Explorando o futuro da Web3 com Blockchain, Smart Contracts e IA.</sub> </p> ```
 
-Feito com dedicação por Luciano Camargo – KarreiraDev Frontend
+---
 
-<p align="center"> <a href="https://www.linkedin.com/in/seu-linkedin/"> <img src="https://img.shields.io/badge/LinkedIn-Luciano%20Camargo-blue?logo=linkedin" alt="LinkedIn" /> </a> <a href="https://github.com/seu-usuario"> <img src="https://img.shields.io/badge/GitHub-KarreiraDev-black?logo=github" alt="GitHub" /> </a> </p> ```
+<p align="center">
+  <b>Desenvolvido com 💡 por Luciano Camargo – KarreiraDev Frontend</b><br/>
+  <sub>Explorando o futuro da Web3 com Blockchain, Smart Contracts e IA.</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Luciano%20Camargo-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/GitHub-KarreiraDev-black?logo=github" alt="GitHub" />
+  </a>
+</p>
