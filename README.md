@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner-flash-bootcamp.png" alt="Flash Bootcamp NearX Banner" width="100%" />
+  <img src="banner-flash-bootcamp-nearx.png" alt="Flash Bootcamp NearX Banner" width="100%" />
 </p>
 
 <h1 align="center">⚡ Flash Bootcamp NearX</h1>
