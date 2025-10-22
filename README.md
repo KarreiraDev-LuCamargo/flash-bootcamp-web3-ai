@@ -302,12 +302,12 @@ Faça parte da comunidade de desenvolvedores Web3, aprenda com especialistas e c
 Este projeto foi desenvolvido para fins educacionais durante o Flash Bootcamp NearX.
 O conteúdo é de uso livre para estudos e experimentação.
 
-<p align="center"> <b>Desenvolvido com 💡 por participantes do Flash Bootcamp NearX</b><br/> <sub>Explorando o futuro da Web3 com Blockchain, Smart Contracts e IA.</sub> </p> ```
+
 
 ---
 
 <p align="center">
-  <b>Desenvolvido com 💡 por Luciano Camargo – KarreiraDev Frontend</b><br/>
+  <b>Desenvolvido 💡 por Luciano Camargo – KarreiraDev Frontend</b> <b>com a mentoria de participantes NearX</b><br/>
   <sub>Explorando o futuro da Web3 com Blockchain, Smart Contracts e IA.</sub>
 </p>
 
