@@ -49,7 +49,7 @@ O objetivo é demonstrar como unir tecnologias emergentes para criar aplicaçõe
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="50" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="50" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" alt="JavaScript" title="JavaScript" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" alt="React" title="React" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" alt="Node.js" title="Node.js" />
