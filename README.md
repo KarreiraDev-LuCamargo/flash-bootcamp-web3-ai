@@ -10,6 +10,104 @@
 
 <p align="center">Bootcamps são programas de treinamento intensivo e imersivo, com foco na prática, que visam desenvolver habilidades específicas em um curto período, como meses ou semanas. Eles são populares para quem busca uma mudança de carreira ou especialização rápida em áreas como tecnologia, onde o foco é em competências demandadas pelo mercado de trabalho. </p>
 
+## 🌐 Tecnologias: Blockchain, Web3 e Smart Contracts
+
+Três pilares fundamentais da **era digital descentralizada**.  
+Abaixo, você pode expandir cada seção para entender **o que é**, **para que serve** e **onde se aplica**.
+
+---
+
+<details>
+<summary>🧱 <strong>Blockchain</strong> — o alicerce da confiança digital</summary>
+
+### 💡 O que é
+Um **registro descentralizado e criptografado**, que armazena dados em blocos interligados e imutáveis.
+
+### ⚙️ Para que serve
+Garante **segurança**, **transparência** e **integridade** nas transações e registros, sem depender de intermediários.
+
+### 🚀 Onde é aplicada
+- 💰 Criptomoedas  
+- 🧾 Rastreabilidade de produtos  
+- 🗳️ Votação digital  
+- 🧑‍💻 Identidade digital  
+- 📜 Registros públicos  
+
+### 🔗 Recursos
+- [📘 Blockchain.com Academy](https://www.blockchain.com/learning-portal)  
+- [📗 IBM Blockchain Essentials](https://developer.ibm.com/technologies/blockchain/)  
+- [📙 Bitcoin Whitepaper (Satoshi Nakamoto)](https://bitcoin.org/bitcoin.pdf)  
+
+</details>
+
+---
+
+<details>
+<summary>🌍 <strong>Web3</strong> — a nova geração da internet</summary>
+
+### 💡 O que é
+A **nova geração da internet** baseada em **blockchain e descentralização**, permitindo que os usuários tenham mais controle sobre seus dados.
+
+### ⚙️ Para que serve
+Oferece **interações diretas** entre pessoas e aplicativos, sem depender de grandes plataformas centralizadas.
+
+### 🚀 Onde é aplicada
+- 🕹️ Aplicativos descentralizados (dApps)  
+- 🪙 Finanças descentralizadas (DeFi)  
+- 🎨 NFTs e metaverso  
+- 🔐 Login com carteira digital  
+
+### 🔗 Recursos
+- [🌐 web3.js Documentation (Ethereum Foundation)](https://web3js.readthedocs.io/)  
+- [🧭 Ethereum.org – What is Web3?](https://ethereum.org/en/web3/)  
+- [🧰 Alchemy University – Web3 Learning Platform](https://university.alchemy.com/)  
+
+</details>
+
+---
+
+<details>
+<summary>🤖 <strong>Smart Contracts</strong> — automação e confiança em código</summary>
+
+### 💡 O que é
+**Programas autônomos** que executam acordos automaticamente quando condições pré-definidas são atendidas.
+
+### ⚙️ Para que serve
+**Automatizam contratos digitais**, garantindo que regras sejam cumpridas de forma segura, transparente e sem intermediários.
+
+### 🚀 Onde é aplicada
+- 🪙 DeFi  
+- 🎨 NFTs  
+- 📑 Acordos empresariais  
+- 🛡️ Seguros digitais  
+- 🕹️ Jogos blockchain  
+
+### 🔗 Recursos
+- [📜 Solidity Documentation](https://docs.soliditylang.org/)  
+- [🧪 Hardhat Framework](https://hardhat.org/)  
+- [🦊 MetaMask](https://metamask.io/)  
+- [⚙️ OpenZeppelin Docs](https://docs.openzeppelin.com/contracts/)  
+
+</details>
+
+---
+
+> 💬 **Resumo rápido:**
+> - 🧱 **Blockchain** → base da confiança e segurança digital.  
+> - 🌍 **Web3** → camada de interação descentralizada.  
+> - 🤖 **Smart Contracts** → motor que automatiza tudo sem intermediários.
+
+---
+
+📚 **Dica Final:**  
+Combine essas tecnologias para criar soluções completas:  
+- Use **Blockchain** como base de dados segura;  
+- Desenvolva **Smart Contracts** para automatizar regras;  
+- Conecte tudo com **Web3**, através de carteiras e dApps.
+
+> ✨ *"O futuro da internet é aberto, descentralizado e automatizado."*
+
+
 <p align="center">
   <a href="https://github.com/seuusuario/flash-bootcamp-nearx/stargazers">
     <img src="https://img.shields.io/github/stars/seuusuario/flash-bootcamp-nearx?color=FFD700&style=for-the-badge" alt="Stars" />
