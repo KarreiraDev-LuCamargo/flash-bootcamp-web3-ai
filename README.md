@@ -6,6 +6,10 @@
 <h1 align="center">⚡ Flash Bootcamp NearX</h1>
 <h3 align="center">Seu Primeiro Projeto Web3 com Blockchain, Smart Contracts e IA</h3>
 
+<h2 align="center">O que é bootcamps</h2>
+
+<p align="center">Bootcamps são programas de treinamento intensivo e imersivo, com foco na prática, que visam desenvolver habilidades específicas em um curto período, como meses ou semanas. Eles são populares para quem busca uma mudança de carreira ou especialização rápida em áreas como tecnologia, onde o foco é em competências demandadas pelo mercado de trabalho. </p>
+
 <p align="center">
   <a href="https://github.com/seuusuario/flash-bootcamp-nearx/stargazers">
     <img src="https://img.shields.io/github/stars/seuusuario/flash-bootcamp-nearx?color=FFD700&style=for-the-badge" alt="Stars" />
