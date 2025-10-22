@@ -47,8 +47,6 @@ O objetivo é demonstrar como unir tecnologias emergentes para criar aplicaçõe
 
 ## 🧠 Tecnologias Utilizadas
 
-## 🧠 Tecnologias Utilizadas
-
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="50" alt="HTML5" title="HTML5" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" width="50" alt="CSS3" title="CSS3" />
@@ -56,16 +54,11 @@ O objetivo é demonstrar como unir tecnologias emergentes para criar aplicaçõe
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" alt="React" title="React" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" alt="Node.js" title="Node.js" />
   <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="50" alt="Ethereum" title="Ethereum" />
-  <img src="https://cdn.simpleicons.org/nearprotocol/00EC97" width="50" alt="NEAR Protocol" title="NEAR Protocol" />
+  <img src="https://cdn.simpleicons.org/near/00EC97" width="50" alt="NEAR Protocol" title="NEAR Protocol" />
   <img src="https://cdn.simpleicons.org/openai/412991" width="50" alt="OpenAI" title="OpenAI" />
   <img src="https://cdn.simpleicons.org/git/F05032" width="50" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/visualstudio/007ACC" width="50" alt="Visual Studio Code" title="Visual Studio Code" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="50" alt="VS Code" title="VS Code" />
 </p>
-
-<p align="center">
-  <sub>Essas são as principais tecnologias aplicadas no desenvolvimento do projeto — do front-end à integração com Web3 e IA.</sub>
-</p>
-
 
 <p align="center">
   <sub>Essas são as principais tecnologias aplicadas no desenvolvimento do projeto — do front-end à integração com Web3 e IA.</sub>
