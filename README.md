@@ -2,15 +2,15 @@
 <p align="center">
   <img src="banner-flash-bootcamp-nearx.png" alt="Flash Bootcamp NearX Banner" width="100%" />
 </p>
-## 🧭 Sumário
-- [🌐 As Eras da Internet](#-as-eras-da-internet)
-- [🧩 Tecnologias: Blockchain, Web3 e Smart Contracts](#-tecnologias-blockchain-web3-e-smart-contracts)
-- [📘 Sobre o Projeto](#-sobre-o-projeto)
-- [🚀 O que você vai aprender](#-o-que-você-vai-aprender)
-- [🧠 Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [⚙️ Como Executar](#-como-executar)
-- [💬 Comunidade NearX](#-comunidade-nearx)
-- [🧾 Licença](#-licença)
+## 🧭 Sumário <br>
+- [🌐 As Eras da Internet](#-as-eras-da-internet)<br>
+- [🧩 Tecnologias: Blockchain, Web3 e Smart Contracts]<br>(#-tecnologias-blockchain-web3-e-smart-contracts)<br>
+- [📘 Sobre o Projeto](#-sobre-o-projeto)<br>
+- [🚀 O que você vai aprender](#-o-que-você-vai-aprender)<br>
+- [🧠 Tecnologias Utilizadas](#-tecnologias-utilizadas)<br>
+- [⚙️ Como Executar](#-como-executar)<br>
+- [💬 Comunidade NearX](#-comunidade-nearx)<br>
+- [🧾 Licença](#-licença)<br>
 
 <h1 align="center">⚡ Flash Bootcamp NearX</h1>
 <h3 align="center">Seu Primeiro Projeto Web3 com Blockchain, Smart Contracts e IA</h3>
