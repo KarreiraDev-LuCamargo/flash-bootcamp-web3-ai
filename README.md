@@ -47,18 +47,68 @@ O objetivo é demonstrar como unir tecnologias emergentes para criar aplicaçõe
 
 ## 🧠 Tecnologias Utilizadas
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="50" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="50" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" alt="React" title="React" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="50" alt="Ethereum" title="Ethereum" />
-  <img src="https://cdn.simpleicons.org/near/00EC97" width="50" alt="NEAR Protocol" title="NEAR Protocol" />
-  <img src="https://cdn.simpleicons.org/openai/412991" width="50" alt="OpenAI" title="OpenAI" />
-  <img src="https://cdn.simpleicons.org/git/F05032" width="50" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="50" alt="VS Code" title="VS Code" />
-</p>
+<!-- STACK TECNOLÓGICO - ESTILO DARK -->
+<div align="center" style="
+  background: linear-gradient(90deg, rgba(20,20,20,0.8), rgba(35,35,35,0.9));
+  border: 1px solid rgba(80,80,80,0.4);
+  border-radius: 14px;
+  padding: 20px 30px;
+  display: inline-block;
+  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+">
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" width="50" alt="HTML5" title="HTML5"
+    style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.simpleicons.org/css3/1572B6" width="50" alt="CSS3" title="CSS3"
+    style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" alt="JavaScript" title="JavaScript"
+    style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" alt="React" title="React"
+    style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://cdn.simpleicons.org/node.js/339933" width="50" alt="Node.js" title="Node.js"
+    style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://ethereum.org" target="_blank">
+    <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="50" alt="Ethereum" title="Ethereum"
+    style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://near.org" target="_blank">
+    <img src="https://cdn.simpleicons.org/near/00EC97" width="50" alt="NEAR Protocol" title="NEAR Protocol"
+    style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://openai.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/openai/412991" width="50" alt="OpenAI" title="OpenAI"
+    style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/git/F05032" width="50" alt="Git" title="Git"
+    style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="50" alt="VS Code" title="VS Code"
+    style="margin: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+</div>
+
 
 <p align="center">
   <sub>Essas são as principais tecnologias aplicadas no desenvolvimento do projeto — do front-end à integração com Web3 e IA.</sub>
