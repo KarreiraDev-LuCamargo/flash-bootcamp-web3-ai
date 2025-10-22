@@ -107,6 +107,90 @@ Combine essas tecnologias para criar soluções completas:
 
 > ✨ *"O futuro da internet é aberto, descentralizado e automatizado."*
 
+## 🌐 As Eras da Internet
+
+A internet evoluiu em **três grandes fases**, cada uma marcada por uma forma diferente de **interação, criação e controle de informação**.  
+Clique abaixo para explorar cada era 👇
+
+---
+
+<details>
+<summary>📜 <strong>Era 1.0 — A Internet Estática (Anos 1990 – início 2000)</strong></summary>
+
+### 💡 O que era
+A primeira fase da internet: **sites estáticos**, apenas informativos e com comunicação **unidirecional** (empresa → usuário).
+
+### ⚙️ Características
+- Páginas em **HTML puro**, sem interatividade.  
+- O usuário apenas **consumia conteúdo**.  
+- Informação publicada por poucas fontes.  
+- Design simples e navegação limitada.  
+
+### 💻 Exemplos
+- 🌐 **Yahoo**, **GeoCities**, **AltaVista**, **MSN**, portais de notícias.  
+- 📰 Sites institucionais com texto e imagens fixas.  
+
+> 🕹️ **Resumo:** o usuário era apenas um espectador.
+
+</details>
+
+---
+
+<details>
+<summary>💬 <strong>Era 2.0 — A Internet Interativa e Social (2004 – presente)</strong></summary>
+
+### 💡 O que é
+A era da **participação e colaboração**.  
+O usuário passa a **criar, comentar e compartilhar** conteúdo — nasce a web **social** e **colaborativa**.
+
+### ⚙️ Características
+- Comunicação **de muitos para muitos**.  
+- **Redes sociais**, **blogs**, **wikis** e **aplicativos web**.  
+- Plataformas e dados centralizados em grandes empresas.  
+- Uso intensivo de **APIs** e **nuvem**.  
+
+### 💻 Exemplos
+- 💬 **Facebook**, **YouTube**, **Instagram**, **Twitter (X)**, **Wikipedia**, **Spotify**, **Uber**.  
+
+> 🌍 **Resumo:** o usuário virou parte ativa da internet — criador, influenciador e consumidor.
+
+</details>
+
+---
+
+<details>
+<summary>🪙 <strong>Era 3.0 — A Internet Descentralizada (Web3 – atual e futura)</strong></summary>
+
+### 💡 O que é
+A nova era da **internet descentralizada**, baseada em **blockchain**, **inteligência artificial** e **propriedade digital**.  
+O usuário **recupera o controle sobre seus dados e ativos digitais**.
+
+### ⚙️ Características
+- Uso de **blockchain**, **IA** e **smart contracts**.  
+- **Descentralização**: sem empresas intermediárias.  
+- **Propriedade digital** via tokens e NFTs.  
+- Aplicativos **dApps** e economias digitais.  
+
+### 💻 Exemplos
+- 🦊 **MetaMask**, 🌐 **Ethereum**, 🎨 **OpenSea**, 🏙️ **Decentraland**, 🪙 **Uniswap**, 🧭 **Lens Protocol**, 🔒 **Brave Browser**.  
+
+> 🚀 **Resumo:** o usuário é dono dos seus dados, da sua identidade e da sua economia digital.
+
+</details>
+
+---
+
+> 💬 **Resumo geral:**
+> - 📜 **Web 1.0:** leitura → o usuário **consumia**.  
+> - 💬 **Web 2.0:** leitura e escrita → o usuário **interagia**.  
+> - 🪙 **Web 3.0:** leitura, escrita e propriedade → o usuário **controla**.
+
+---
+
+✨ *"Da informação à descentralização — a internet evolui para devolver o poder ao usuário."*
+
+
+
 
 <p align="center">
   <a href="https://github.com/seuusuario/flash-bootcamp-nearx/stargazers">
