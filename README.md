@@ -85,16 +85,16 @@ O objetivo é demonstrar como unir tecnologias emergentes para criar aplicaçõe
    
    npm start
 
-🧩 Estrutura do Projeto
-📦 flash-bootcamp-nearx
- ┣ 📂 src
- ┃ ┣ 📜 index.html
- ┃ ┣ 📜 main.js
- ┃ ┣ 📜 style.css
- ┃ ┗ 📜 contract.js
- ┣ 📜 package.json
- ┣ 📜 README.md
- ┗ 📜 .gitignore
+🧩 Estrutura do Projeto <br>
+📦 flash-bootcamp-nearx <br>
+ ┣ 📂 src <br>
+ ┃ ┣ 📜 index.html <br>
+ ┃ ┣ 📜 main.js <br>
+ ┃ ┣ 📜 style.css <br>
+ ┃ ┗ 📜 contract.js <br>
+ ┣ 📜 package.json <br>
+ ┣ 📜 README.md <br>
+ ┗ 📜 .gitignore <br>
 
 💬 Comunidade NearX
 
