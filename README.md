@@ -4,7 +4,7 @@
 </p>
 ## 🧭 Sumário <br>
 - [🌐 As Eras da Internet](#-as-eras-da-internet)<br>
-- [🧩 Tecnologias: Blockchain, Web3 e Smart Contracts]<br>(#-tecnologias-blockchain-web3-e-smart-contracts)<br>
+- [🧩 Tecnologias: Blockchain, Web3 e Smart Contracts](#-tecnologias-blockchain-web3-e-smart-contracts)<br>
 - [📘 Sobre o Projeto](#-sobre-o-projeto)<br>
 - [🚀 O que você vai aprender](#-o-que-você-vai-aprender)<br>
 - [🧠 Tecnologias Utilizadas](#-tecnologias-utilizadas)<br>
@@ -19,7 +19,7 @@
 
 <p align="center">Bootcamps são programas de treinamento intensivo e imersivo, com foco na prática, que visam desenvolver habilidades específicas em um curto período, como meses ou semanas. Eles são populares para quem busca uma mudança de carreira ou especialização rápida em áreas como tecnologia, onde o foco é em competências demandadas pelo mercado de trabalho. </p>
 
-## 🧩 Tecnologias: Blockchain, Web3 e Smart Contracts <a id="tecnologias"></a>
+## 🌐 Tecnologias: Blockchain, Web3 e Smart Contracts
 
 Três pilares fundamentais da **era digital descentralizada**.  
 Abaixo, você pode expandir cada seção para entender **o que é**, **para que serve** e **onde se aplica**.
@@ -116,7 +116,7 @@ Combine essas tecnologias para criar soluções completas:
 
 > ✨ *"O futuro da internet é aberto, descentralizado e automatizado."*
 
-🌐 As Eras da Internet <a id="eras"></a>
+## 🌐 As Eras da Internet
 
 A internet evoluiu em **três grandes fases**, cada uma marcada por uma forma diferente de **interação, criação e controle de informação**.  
 Clique abaixo para explorar cada era 👇
@@ -223,7 +223,7 @@ O usuário **recupera o controle sobre seus dados e ativos digitais**.
 
 ---
 
-📘 Sobre o Projeto <a id="sobre"></a>
+## 📘 Sobre o Projeto
 
 Este repositório reúne o projeto desenvolvido durante o **Flash Bootcamp da NearX**, uma imersão prática para introdução ao ecossistema **Web3**, com integração de **Blockchain**, **Smart Contracts** e **Inteligência Artificial aplicada ao Front-end**.
 
