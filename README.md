@@ -57,7 +57,6 @@ O objetivo é demonstrar como unir tecnologias emergentes para criar aplicaçõe
   <img src="https://cdn.simpleicons.org/near/00EC97" width="50" alt="NEAR Protocol" title="NEAR Protocol" />
   <img src="https://cdn.simpleicons.org/openai/412991" width="50" alt="OpenAI" title="OpenAI" />
   <img src="https://cdn.simpleicons.org/git/F05032" width="50" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="50" alt="VS Code" title="VS Code" />
 </p>
 
 <p align="center">
@@ -109,3 +108,7 @@ Este projeto foi desenvolvido para fins educacionais durante o Flash Bootcamp Ne
 O conteúdo é de uso livre para estudos e experimentação.
 
 <p align="center"> <b>Desenvolvido com 💡 por participantes do Flash Bootcamp NearX</b><br/> <sub>Explorando o futuro da Web3 com Blockchain, Smart Contracts e IA.</sub> </p> ```
+
+Feito com dedicação por Luciano Camargo – KarreiraDev Frontend
+
+<p align="center"> <a href="https://www.linkedin.com/in/seu-linkedin/"> <img src="https://img.shields.io/badge/LinkedIn-Luciano%20Camargo-blue?logo=linkedin" alt="LinkedIn" /> </a> <a href="https://github.com/seu-usuario"> <img src="https://img.shields.io/badge/GitHub-KarreiraDev-black?logo=github" alt="GitHub" /> </a> </p> ```
