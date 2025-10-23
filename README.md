@@ -2,24 +2,120 @@
 <p align="center">
   <img src="banner-flash-bootcamp-nearx.png" alt="Flash Bootcamp NearX Banner" width="100%" />
 </p>
-## 🧭 Sumário <br>
-- [🌐 As Eras da Internet](#-as-eras-da-internet)<br>
-- [🧩 Tecnologias: Blockchain, Web3 e Smart Contracts](#-tecnologias-blockchain-web3-e-smart-contracts)<br>
-- [📘 Sobre o Projeto](#-sobre-o-projeto)<br>
-- [🚀 O que você vai aprender](#-o-que-você-vai-aprender)<br>
-- [🧠 Tecnologias Utilizadas](#-tecnologias-utilizadas)<br>
-- [⚙️ Como Executar](#-como-executar)<br>
-- [💬 Comunidade NearX](#-comunidade-nearx)<br>
-- [🧾 Licença](#-licença)<br>
 
 <h1 align="center">⚡ Flash Bootcamp NearX</h1>
 <h3 align="center">Seu Primeiro Projeto Web3 com Blockchain, Smart Contracts e IA</h3>
 
-<h2 align="center">O que são bootcamps</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Versão-1.0.0-blue?style=for-the-badge" alt="Versão" />
+  <img src="https://img.shields.io/badge/IA-GPT--5-green?style=for-the-badge&logo=openai" alt="GPT-5" />
+</p>
 
-<p align="center">Bootcamps são programas de treinamento intensivo e imersivo, com foco na prática, que visam desenvolver habilidades específicas em um curto período, como meses ou semanas. Eles são populares para quem busca uma mudança de carreira ou especialização rápida em áreas como tecnologia, onde o foco é em competências demandadas pelo mercado de trabalho. </p>
+<h2 align="center">📚 O que são Bootcamps</h2>
 
-## 🌐 Tecnologias: Blockchain, Web3 e Smart Contracts
+<p align="center">
+Bootcamps são programas de treinamento intensivo e imersivo, com foco na prática, que visam desenvolver habilidades específicas em um curto período, como meses ou semanas. Eles são populares para quem busca uma mudança de carreira ou especialização rápida em áreas como tecnologia, onde o foco é em competências demandadas pelo mercado de trabalho.
+</p>
+
+---
+
+## 🧭 Sumário
+- [🌐 As Eras da Internet](#eras)
+- [🧩 Tecnologias: Blockchain, Web3 e Smart Contracts](#tecnologias)
+- [📘 Sobre o Projeto](#sobre)
+- [🚀 O que você vai aprender](#aprender)
+- [🧠 Tecnologias Utilizadas](#usadas)
+- [⚙️ Como Executar](#executar)
+- [💬 Comunidade NearX](#comunidade)
+- [🧾 Licença](#licenca)
+
+---
+
+## 🌐 As Eras da Internet <a id="eras"></a>
+
+A internet evoluiu em **três grandes fases**, cada uma marcada por uma forma diferente de **interação, criação e controle de informação**.  
+Clique abaixo para explorar cada era 👇
+
+---
+
+<details>
+<summary>📜 <strong>Era 1.0 — A Internet Estática (Anos 1990 – início 2000)</strong></summary>
+
+### 💡 O que era
+A primeira fase da internet: **sites estáticos**, apenas informativos e com comunicação **unidirecional** (empresa → usuário).
+
+### ⚙️ Características
+- Páginas em **HTML puro**, sem interatividade.  
+- O usuário apenas **consumia conteúdo**.  
+- Informação publicada por poucas fontes.  
+- Design simples e navegação limitada.  
+
+### 💻 Exemplos
+- 🌐 **Yahoo**, **GeoCities**, **AltaVista**, **MSN**, portais de notícias.  
+- 📰 Sites institucionais com texto e imagens fixas.  
+
+> 🕹️ **Resumo:** o usuário era apenas um espectador.
+
+</details>
+
+---
+
+<details>
+<summary>💬 <strong>Era 2.0 — A Internet Interativa e Social (2004 – presente)</strong></summary>
+
+### 💡 O que é
+A era da **participação e colaboração**.  
+O usuário passa a **criar, comentar e compartilhar** conteúdo — nasce a web **social** e **colaborativa**.
+
+### ⚙️ Características
+- Comunicação **de muitos para muitos**.  
+- **Redes sociais**, **blogs**, **wikis** e **aplicativos web**.  
+- Plataformas e dados centralizados em grandes empresas.  
+- Uso intensivo de **APIs** e **nuvem**.  
+
+### 💻 Exemplos
+- 💬 **Facebook**, **YouTube**, **Instagram**, **Twitter (X)**, **Wikipedia**, **Spotify**, **Uber**.  
+
+> 🌍 **Resumo:** o usuário virou parte ativa da internet — criador, influenciador e consumidor.
+
+</details>
+
+---
+
+<details>
+<summary>🪙 <strong>Era 3.0 — A Internet Descentralizada (Web3 – atual e futura)</strong></summary>
+
+### 💡 O que é
+A nova era da **internet descentralizada**, baseada em **blockchain**, **inteligência artificial** e **propriedade digital**.  
+O usuário **recupera o controle sobre seus dados e ativos digitais**.
+
+### ⚙️ Características
+- Uso de **blockchain**, **IA** e **smart contracts**.  
+- **Descentralização**: sem empresas intermediárias.  
+- **Propriedade digital** via tokens e NFTs.  
+- Aplicativos **dApps** e economias digitais.  
+
+### 💻 Exemplos
+- 🦊 **MetaMask**, 🌐 **Ethereum**, 🎨 **OpenSea**, 🏙️ **Decentraland**, 🪙 **Uniswap**, 🧭 **Lens Protocol**, 🔒 **Brave Browser**.  
+
+> 🚀 **Resumo:** o usuário é dono dos seus dados, da sua identidade e da sua economia digital.
+
+</details>
+
+---
+
+> 💬 **Resumo geral:**
+> - 📜 **Web 1.0:** leitura → o usuário **consumia**.  
+> - 💬 **Web 2.0:** leitura e escrita → o usuário **interagia**.  
+> - 🪙 **Web 3.0:** leitura, escrita e propriedade → o usuário **controla**.
+
+---
+
+✨ *"Da informação à descentralização — a internet evolui para devolver o poder ao usuário."*
+
+---
+
+## 🧩 Tecnologias: Blockchain, Web3 e Smart Contracts <a id="tecnologias"></a>
 
 Três pilares fundamentais da **era digital descentralizada**.  
 Abaixo, você pode expandir cada seção para entender **o que é**, **para que serve** e **onde se aplica**.
@@ -116,114 +212,9 @@ Combine essas tecnologias para criar soluções completas:
 
 > ✨ *"O futuro da internet é aberto, descentralizado e automatizado."*
 
-## 🌐 As Eras da Internet
-
-A internet evoluiu em **três grandes fases**, cada uma marcada por uma forma diferente de **interação, criação e controle de informação**.  
-Clique abaixo para explorar cada era 👇
-
 ---
 
-<details>
-<summary>📜 <strong>Era 1.0 — A Internet Estática (Anos 1990 – início 2000)</strong></summary>
-
-### 💡 O que era
-A primeira fase da internet: **sites estáticos**, apenas informativos e com comunicação **unidirecional** (empresa → usuário).
-
-### ⚙️ Características
-- Páginas em **HTML puro**, sem interatividade.  
-- O usuário apenas **consumia conteúdo**.  
-- Informação publicada por poucas fontes.  
-- Design simples e navegação limitada.  
-
-### 💻 Exemplos
-- 🌐 **Yahoo**, **GeoCities**, **AltaVista**, **MSN**, portais de notícias.  
-- 📰 Sites institucionais com texto e imagens fixas.  
-
-> 🕹️ **Resumo:** o usuário era apenas um espectador.
-
-</details>
-
----
-
-<details>
-<summary>💬 <strong>Era 2.0 — A Internet Interativa e Social (2004 – presente)</strong></summary>
-
-### 💡 O que é
-A era da **participação e colaboração**.  
-O usuário passa a **criar, comentar e compartilhar** conteúdo — nasce a web **social** e **colaborativa**.
-
-### ⚙️ Características
-- Comunicação **de muitos para muitos**.  
-- **Redes sociais**, **blogs**, **wikis** e **aplicativos web**.  
-- Plataformas e dados centralizados em grandes empresas.  
-- Uso intensivo de **APIs** e **nuvem**.  
-
-### 💻 Exemplos
-- 💬 **Facebook**, **YouTube**, **Instagram**, **Twitter (X)**, **Wikipedia**, **Spotify**, **Uber**.  
-
-> 🌍 **Resumo:** o usuário virou parte ativa da internet — criador, influenciador e consumidor.
-
-</details>
-
----
-
-<details>
-<summary>🪙 <strong>Era 3.0 — A Internet Descentralizada (Web3 – atual e futura)</strong></summary>
-
-### 💡 O que é
-A nova era da **internet descentralizada**, baseada em **blockchain**, **inteligência artificial** e **propriedade digital**.  
-O usuário **recupera o controle sobre seus dados e ativos digitais**.
-
-### ⚙️ Características
-- Uso de **blockchain**, **IA** e **smart contracts**.  
-- **Descentralização**: sem empresas intermediárias.  
-- **Propriedade digital** via tokens e NFTs.  
-- Aplicativos **dApps** e economias digitais.  
-
-### 💻 Exemplos
-- 🦊 **MetaMask**, 🌐 **Ethereum**, 🎨 **OpenSea**, 🏙️ **Decentraland**, 🪙 **Uniswap**, 🧭 **Lens Protocol**, 🔒 **Brave Browser**.  
-
-> 🚀 **Resumo:** o usuário é dono dos seus dados, da sua identidade e da sua economia digital.
-
-</details>
-
----
-
-> 💬 **Resumo geral:**
-> - 📜 **Web 1.0:** leitura → o usuário **consumia**.  
-> - 💬 **Web 2.0:** leitura e escrita → o usuário **interagia**.  
-> - 🪙 **Web 3.0:** leitura, escrita e propriedade → o usuário **controla**.
-
----
-
-✨ *"Da informação à descentralização — a internet evolui para devolver o poder ao usuário."*
-
-
-
-
-<p align="center">
-  <a href="https://github.com/seuusuario/flash-bootcamp-nearx/stargazers">
-    <img src="https://img.shields.io/github/stars/seuusuario/flash-bootcamp-nearx?color=FFD700&style=for-the-badge" alt="Stars" />
-  </a>
-  <a href="https://github.com/seuusuario/flash-bootcamp-nearx/network">
-    <img src="https://img.shields.io/github/forks/seuusuario/flash-bootcamp-nearx?color=00BFFF&style=for-the-badge" alt="Forks" />
-  </a>
-  <a href="https://github.com/seuusuario/flash-bootcamp-nearx/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge" alt="Licença MIT" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge" alt="Status do Projeto" />
-  <img src="https://img.shields.io/badge/Feito%20com-💙%20HTML%2C%20CSS%2C%20JS-blue?style=for-the-badge" alt="Feito com HTML, CSS e JS" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/seuusuario/flash-bootcamp-nearx?style=for-the-badge&color=blueviolet" alt="Linguagem principal" />
-  <img src="https://img.shields.io/github/languages/count/seuusuario/flash-bootcamp-nearx?style=for-the-badge&color=green" alt="Contagem de linguagens" />
-  <img src="https://hits.sh/github.com/seuusuario/flash-bootcamp-nearx.svg?style=for-the-badge&label=visitas" alt="Contador de visitas" />
-</p>
-
----
-
-## 📘 Sobre o Projeto
+## 📘 Sobre o Projeto <a id="sobre"></a>
 
 Este repositório reúne o projeto desenvolvido durante o **Flash Bootcamp da NearX**, uma imersão prática para introdução ao ecossistema **Web3**, com integração de **Blockchain**, **Smart Contracts** e **Inteligência Artificial aplicada ao Front-end**.
 
@@ -231,7 +222,7 @@ O objetivo é demonstrar como unir tecnologias emergentes para criar aplicaçõe
 
 ---
 
-## 🚀 O que você vai aprender
+## 🚀 O que você vai aprender <a id="aprender"></a>
 
 ✅ Estrutura e funcionamento do **Blockchain**  
 ✅ Conceitos essenciais de **Smart Contracts**  
@@ -240,7 +231,7 @@ O objetivo é demonstrar como unir tecnologias emergentes para criar aplicaçõe
 
 ---
 
-## 🧠 Tecnologias Utilizadas
+## 🧠 Tecnologias Utilizadas <a id="usadas"></a>
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="50" alt="HTML5" title="HTML5" />
@@ -260,62 +251,46 @@ O objetivo é demonstrar como unir tecnologias emergentes para criar aplicaçõe
 
 ---
 
-## ⚙️ Como Executar
+## ⚙️ Como Executar <a id="executar"></a>
 
 1. **Clone o repositório**
    ```bash
    git clone https://github.com/seuusuario/flash-bootcamp-nearx.git
 
-
 2. Acesse a pasta do projeto
    
    cd flash-bootcamp-nearx
 
-
-3. Instale as dependências 
-
+3. Instale as dependências
+   
    npm install
 
 4. Inicie o servidor de desenvolvimento
-   
-   npm start
+  
+  npm start
 
-🧩 Estrutura do Projeto <br>
-📦 flash-bootcamp-nearx <br>
- ┣ 📂 src <br>
- ┃ ┣ 📜 index.html <br>
- ┃ ┣ 📜 main.js <br>
- ┃ ┣ 📜 style.css <br>
- ┃ ┗ 📜 contract.js <br>
- ┣ 📜 package.json <br>
- ┣ 📜 README.md <br>
- ┗ 📜 .gitignore <br>
+🧩 Estrutura do Projeto
+📦 flash-bootcamp-nearx
+┣ 📂 src
+┃ ┣ 📜 index.html
+┃ ┣ 📜 main.js
+┃ ┣ 📜 style.css
+┃ ┗ 📜 contract.js
+┣ 📜 package.json
+┣ 📜 README.md
+┗ 📜 .gitignore
 
-💬 Comunidade NearX
+💬 Comunidade NearX <a id="comunidade"></a>
 
 Faça parte da comunidade de desenvolvedores Web3, aprenda com especialistas e conecte-se com outros devs:
 
-👉 NearX no Discord
+👉 NearX sem Discord
 
-🧾 Licença
+🧾 Licença <a id="licenca"> </a>
 
 Este projeto foi desenvolvido para fins educacionais durante o Flash Bootcamp NearX.
 O conteúdo é de uso livre para estudos e experimentação.
 
+<p align="center"> <b>Desenvolvido com 💡 por Luciano Camargo – KarreiraDev Frontend</b><br/> <sub>Explorando o futuro da Web3 com Blockchain, Smart Contracts e IA.</sub> </p> <p align="center"> <a href="https://www.linkedin.com/in/seu-linkedin/"> <img src="https://img.shields.io/badge/LinkedIn-Luciano%20Camargo-blue?logo=linkedin" alt="LinkedIn" /> </a> <a href="https://github.com/seu-usuario"> <img src="https://img.shields.io/badge/GitHub-KarreiraDev-black?logo=github" alt="GitHub" /> </a> </p>
 
-
----
-
-<p align="center">
-  <b>Desenvolvido 💡 por Luciano Camargo – KarreiraDev Frontend</b> <b>com a mentoria de participantes NearX</b><br/>
-  <sub>Explorando o futuro da Web3 com Blockchain, Smart Contracts e IA.</sub>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Luciano%20Camargo-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/seu-usuario">
-    <img src="https://img.shields.io/badge/GitHub-KarreiraDev-black?logo=github" alt="GitHub" />
-  </a>
-</p>
+<p align="center"> 🌙 <i>Projeto Flash Bootcamp NearX – Construindo o Futuro da Web3 com Código e Criatividade.</i> </p>
