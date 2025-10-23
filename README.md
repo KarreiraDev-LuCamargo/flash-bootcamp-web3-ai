@@ -269,16 +269,16 @@ O objetivo é demonstrar como unir tecnologias emergentes para criar aplicaçõe
   
   npm start
 
-🧩 Estrutura do Projeto
-📦 flash-bootcamp-nearx
-┣ 📂 src
-┃ ┣ 📜 index.html
-┃ ┣ 📜 main.js
-┃ ┣ 📜 style.css
-┃ ┗ 📜 contract.js
-┣ 📜 package.json
-┣ 📜 README.md
-┗ 📜 .gitignore
+🧩 Estrutura do Projeto <br>
+📦 flash-bootcamp-nearx <br>
+┣ 📂 src <br>
+┃ ┣ 📜 index.html <br>
+┃ ┣ 📜 main.js <br>
+┃ ┣ 📜 style.css <br>
+┃ ┗ 📜 contract.js <br>
+┣ 📜 package.json <br>
+┣ 📜 README.md <br>
+┗ 📜 .gitignore <br>
 
 💬 Comunidade NearX <a id="comunidade"></a>
 
@@ -291,6 +291,6 @@ Faça parte da comunidade de desenvolvedores Web3, aprenda com especialistas e c
 Este projeto foi desenvolvido para fins educacionais durante o Flash Bootcamp NearX.
 O conteúdo é de uso livre para estudos e experimentação.
 
-<p align="center"> <b>Desenvolvido com 💡 por Luciano Camargo – KarreiraDev Frontend</b><br/> <sub>Explorando o futuro da Web3 com Blockchain, Smart Contracts e IA.</sub> </p> <p align="center"> <a href="https://www.linkedin.com/in/seu-linkedin/"> <img src="https://img.shields.io/badge/LinkedIn-Luciano%20Camargo-blue?logo=linkedin" alt="LinkedIn" /> </a> <a href="https://github.com/seu-usuario"> <img src="https://img.shields.io/badge/GitHub-KarreiraDev-black?logo=github" alt="GitHub" /> </a> </p>
+<p align="center"> <b>Recriado a partir de original desenvolvido pela equipe NearX a adaptação é de autoria de Luciano Camargo – KarreiraDev Frontend</b><br/> <sub>Explorando o futuro da Web3 com Blockchain, Smart Contracts e IA.</sub> </p> <p align="center"> <a href="https://www.linkedin.com/in/seu-linkedin/"> <img src="https://img.shields.io/badge/LinkedIn-Luciano%20Camargo-blue?logo=linkedin" alt="LinkedIn" /> </a> <a href="https://github.com/seu-usuario"> <img src="https://img.shields.io/badge/GitHub-KarreiraDev-black?logo=github" alt="GitHub" /> </a> </p>
 
 <p align="center"> 🌙 <i>Projeto Flash Bootcamp NearX – Construindo o Futuro da Web3 com Código e Criatividade.</i> </p>
